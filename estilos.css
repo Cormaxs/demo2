@@ -1,0 +1,16 @@
+.main{
+	background: beige;
+	width: 90%; height: auto;
+	margin: 5%;
+	text-align: center;
+}
+
+.Tutulo{
+	font-size: 30px;
+}
+
+
+.texto-main{
+	width: 90%;
+	background: green;
+}
